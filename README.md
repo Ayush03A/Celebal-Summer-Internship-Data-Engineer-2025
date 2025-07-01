@@ -49,7 +49,7 @@ Special thanks to my mentors and the entire Celebal team for their guidance and 
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayush03a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/3ayushanand/)
 - 📂 [Portfolio](https://github.com/Ayush03A)
 - ✉️ Email: 0310ayushanand@gmail.com
 
