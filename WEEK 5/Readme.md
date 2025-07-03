@@ -108,7 +108,7 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 
 **Selective Query Results:**
 
-![Selective Query Results]([path/to/your/screenshot7.png](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Copy%20Selective%20Tables%20with%20Selective%20Columns.png))
+![Selective Query Results](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Copy%20Selective%20Tables%20with%20Selective%20Columns.png)
 
 ---
 
