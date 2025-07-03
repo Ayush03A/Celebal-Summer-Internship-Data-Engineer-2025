@@ -116,6 +116,10 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 
 ---
 
+## Data Factory as Code
+
+The full configuration of the Azure Data Factory pipelines, datasets, and triggers is available as an ARM template in the /arm_template folder, demonstrating Infrastructure as Code (IaC) principles.
+
 ## 💡 Key Learnings & Challenges
 
 *   **Dynamic Pipelines:** Mastered the use of `Lookup` and `ForEach` activities to create powerful, metadata-driven pipelines that scale without manual intervention.
