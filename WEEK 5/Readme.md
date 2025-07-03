@@ -33,8 +33,13 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 *   The output files were written to separate folders within an Azure Blob Storage container.
 
 **Evidence of Success:** 📸
-`![Pipeline for File Formats](Screenshots/Pipeline_NW_Customers_To_Files.png)`
-`![Blob Storage Output](path/to/your/screenshot2.png)`
+
+**Pipeline for File Formats:**
+![Pipeline for File Formats](Screenshots/Pipeline_NW_Customers_To_Files.png)
+
+**Blob Storage Output:**
+
+![Blob Storage Output](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Copy%20Data%20from%20Database%20to%20CSV%2C%20Parquet%2C%20and%20Avro%20File%20Formats%202.png)
 
 ---
 
@@ -47,8 +52,10 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 *   **Event Trigger:** A trigger named `TR_On_File_Arrival` was configured to start a pipeline whenever a new blob is created in a specific storage container (`/data-input`). This enables real-time or event-driven workflows.
 
 **Evidence of Success:** 📸
-*Here, you can add a screenshot of your Triggers page in ADF.*
-`![ADF Triggers](path/to/your/screenshot3.png)`
+
+**ADF Triggers:**
+
+![ADF Triggers](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Schedule%20and%20Event%20triggers.png)
 
 ---
 
@@ -64,9 +71,14 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 *   The Sink is configured with the **`Auto create table`** option, allowing ADF to replicate the schema and data seamlessly.
 
 **Evidence of Success:** 📸
-*Here, you can add a screenshot of the dynamic pipeline canvas and the destination DB table list.*
-`![Dynamic Replication Pipeline](path/to/your/screenshot4.png)`
-`![Destination DB Tables](path/to/your/screenshot5.png)`
+
+**Dynamic Replication Pipeline:**
+
+![Dynamic Replication Pipeline](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Pipeline_Full_DB_Replication.png)
+
+**Destination DB Tables:**
+
+![Destination DB Tables](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Coping%20Done.png)
 
 ---
 
@@ -89,9 +101,14 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 *   **Sink:** The sink writes to a new table named `dbo.Product_Pricing_Info` in the `DestinationDB`, using the `Auto create table` option to create a table with a schema that matches the query result.
 
 **Evidence of Success:** 📸
-*Here, you can add a screenshot of the selective pipeline and the query results from the new table.*
-`![Selective Copy Pipeline](path/to/your/screenshot6.png)`
-`![Selective Query Results](path/to/your/screenshot7.png)`
+
+**Selective Copy Pipeline:**
+
+![Selective Copy Pipeline](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Pipeline_Selective_Product_Copy.png)
+
+**Selective Query Results:**
+
+![Selective Query Results]([path/to/your/screenshot7.png](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Copy%20Selective%20Tables%20with%20Selective%20Columns.png))
 
 ---
 
