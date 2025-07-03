@@ -33,7 +33,7 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 *   The output files were written to separate folders within an Azure Blob Storage container.
 
 **Evidence of Success:** 📸
-`![Pipeline for File Formats](WEEK 5/Screenshots/Pipeline_NW_Customers_To_Files.png)`
+`![Pipeline for File Formats](Screenshots/Pipeline_NW_Customers_To_Files.png)`
 `![Blob Storage Output](path/to/your/screenshot2.png)`
 
 ---
