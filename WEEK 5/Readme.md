@@ -33,8 +33,7 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 *   The output files were written to separate folders within an Azure Blob Storage container.
 
 **Evidence of Success:** 📸
-*Here, you can add a screenshot of your pipeline canvas and the Blob Storage folders.*
-`![Pipeline for File Formats](path/to/your/screenshot1.png)`
+`![Pipeline for File Formats](WEEK 5/Screenshots/Pipeline_NW_Customers_To_Files.png)`
 `![Blob Storage Output](path/to/your/screenshot2.png)`
 
 ---
