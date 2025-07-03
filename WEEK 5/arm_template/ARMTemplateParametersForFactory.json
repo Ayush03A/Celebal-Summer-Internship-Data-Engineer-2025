@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "ayushanand03"
+        },
+        "AzureSqlDatabaseDE_password": {
+            "value": ""
+        },
+        "AzureBlobStorage_Output_connectionString": {
+            "value": ""
+        },
+        "LS_AzureSQL_Destination_password": {
+            "value": ""
+        },
+        "AzureSqlDatabaseDE_properties_typeProperties_server": {
+            "value": "de-intern-sql-server-2025.database.windows.net"
+        },
+        "AzureSqlDatabaseDE_properties_typeProperties_database": {
+            "value": "SourceDB"
+        },
+        "AzureSqlDatabaseDE_properties_typeProperties_userName": {
+            "value": "sqladmin"
+        },
+        "LS_AzureSQL_Destination_properties_typeProperties_server": {
+            "value": "de-intern-sql-server-2025.database.windows.net"
+        },
+        "LS_AzureSQL_Destination_properties_typeProperties_database": {
+            "value": "DestinationDB"
+        },
+        "LS_AzureSQL_Destination_properties_typeProperties_userName": {
+            "value": "sqladmin"
+        },
+        "trigger1TR_On_File_Arrival_properties_typeProperties_scope": {
+            "value": "/subscriptions/83ea7275-bd0f-4eeb-a3b5-d35c228b55a2/resourceGroups/DE-Intern-Assignment-RG/providers/Microsoft.Storage/storageAccounts/nwdatalakeay"
+        }
+    }
+}
