@@ -1,0 +1,5 @@
+- Azure Resource Group
+- Azure SQL Database (x2: Source and Destination)
+- Azure Blob Storage
+- Azure Data Factory (v2)
+- Northwind Sample Database (or any)
