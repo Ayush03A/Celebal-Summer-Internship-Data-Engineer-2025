@@ -32,6 +32,10 @@ This project demonstrates foundational data engineering tasks using **Azure Data
     *   **Avro:** For compact serialization and robust schema evolution capabilities.
 *   The output files were written to separate folders within an Azure Blob Storage container.
 
+## Architecture Diagram
+
+![Architecture Diagram](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/abdc789e575d11d96e067ab562c6fafeb3a7049b/WEEK%205/Screenshots/Architecture%20Diagram.png)
+
 **Evidence of Success:** 📸
 
 **Pipeline for File Formats:**
@@ -39,7 +43,7 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 
 **Blob Storage Output:**
 
-![Blob Storage Output](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Copy%20Data%20from%20Database%20to%20CSV%2C%20Parquet%2C%20and%20Avro%20File%20Formats%202.png)
+![Blob Storage Output](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/abdc789e575d11d96e067ab562c6fafeb3a7049b/WEEK%205/Screenshots/Copy%20Data%20from%20Database%20to%20CSV%2C%20Parquet%2C%20and%20Avro%20File%20Formats%202.png)
 
 ---
 
@@ -55,7 +59,7 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 
 **ADF Triggers:**
 
-![ADF Triggers](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Schedule%20and%20Event%20triggers.png)
+![ADF Triggers](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/abdc789e575d11d96e067ab562c6fafeb3a7049b/WEEK%205/Screenshots/Schedule%20and%20Event%20triggers.png)
 
 ---
 
@@ -78,7 +82,7 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 
 **Destination DB Tables:**
 
-![Destination DB Tables](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Coping%20Done.png)
+![Destination DB Tables](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/abdc789e575d11d96e067ab562c6fafeb3a7049b/WEEK%205/Screenshots/Coping%20Done.png)
 
 ---
 
@@ -108,7 +112,7 @@ This project demonstrates foundational data engineering tasks using **Azure Data
 
 **Selective Query Results:**
 
-![Selective Query Results](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/7391dcfa499448bb5d6eedfca132d8a6d5a1b9a6/WEEK%205/Screenshots/Copy%20Selective%20Tables%20with%20Selective%20Columns.png)
+![Selective Query Results](https://github.com/Ayush03A/Celebal-Summer-Internship-Data-Engineer-2025/blob/abdc789e575d11d96e067ab562c6fafeb3a7049b/WEEK%205/Screenshots/Copy%20Selective%20Tables%20with%20Selective%20Columns.png)
 
 ---
 
